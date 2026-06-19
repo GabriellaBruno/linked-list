@@ -1,2 +1,2 @@
 # linked-list
-linked list utilizing nodes
+Linked list utilizing nodes. Class IntLinkedList outlines the properties used in Application.
